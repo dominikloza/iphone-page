@@ -1,7 +1,7 @@
 
 # iPhone Product Page
 
-Welcome to repository for the iPhone Product Page! This project showcases a modern, responsive webpage designed to highlight the features and benefits of the latest iPhone model.
+This project showcases a modern, responsive webpage designed to highlight the features and benefits of the latest iPhone model.
 
 ## Features
 
