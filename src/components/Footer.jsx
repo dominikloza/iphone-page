@@ -26,7 +26,7 @@ const Footer = () => {
                     <p className='font-semibold text-gray text-xs'>
                         Copyright @ 2024 Apple Inc. All rights reserved.
                     </p>
-                    <div className='flex'>
+                    <div className='flex flex-wrap'>
                         {footerLinks.map((link, i) => (
                             <div key={link}>
                                 <a  className='font-semibold text-gray text-xs hover:text-blue transition-all' href='#'>

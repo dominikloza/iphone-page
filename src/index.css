@@ -29,6 +29,11 @@ canvas {
   max-width: 1420px;
 }
 
+.text-footer {
+  font-family: 10px;
+  line-height: 12px;
+}
+
 @layer utilities {
   .flex-center {
     @apply flex items-center justify-center
