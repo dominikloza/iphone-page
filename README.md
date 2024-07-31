@@ -3,6 +3,8 @@
 
 This project showcases a modern, responsive webpage designed to highlight the features and benefits of the latest iPhone model.
 
+## Live: https://iphone-product-site.netlify.app/
+
 ## Features
 
 - Elegant Design: A sleek, modern design that aligns with the aesthetics of the latest iPhone.
